@@ -19,7 +19,7 @@ Abrir o terminal e digitar: python api.py
 
 No terminal entrar na pasta C:\Program Files\mosquitto
 
-Digitar o comando: mosquitto.pub.exe -h mqtt.eclipseprojects.io -p 1883 -m "SUA MENSAGEM" -t "MQTT"
+Digitar o comando: mosquitto_pub.exe -h mqtt.eclipseprojects.io -p 1883 -m "SUA MENSAGEM" -t "MQTT"
 
 5- Para visualizar o Historico de mensagens:
 
