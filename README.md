@@ -6,9 +6,9 @@ COMO USAR:
 1- Instalar o paho (biblioteca de conexão mqtt):
 
 Abrir o terminal e digitar: pip3 install paho-mqtt
-Abrir o terminal e digitar: pip3 install flask
-Abrir o terminal e digitar: pip3 install flask_cors
-Abrir o terminal e digitar: pip3 install flask_socketio
+                            pip3 install flask
+                            pip3 install flask_cors
+                            pip3 install flask_socketio
 
 2- Rodar o mqtt:
 
@@ -27,6 +27,6 @@ Digitar o comando: mosquitto_pub.exe -h localhost -p 1883 -m "SUA MENSAGEM" -t "
 5- Para visualizar o Historico de mensagens:
 
 No Postman:
-Method: GET , Url: http://localhost:8000/
+Method: GET , Url: http://127.0.0.1:5000/get-messages
 
 Obrigado :)
