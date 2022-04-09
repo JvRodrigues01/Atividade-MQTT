@@ -6,6 +6,9 @@ COMO USAR:
 1- Instalar o paho (biblioteca de conexão mqtt):
 
 Abrir o terminal e digitar: pip3 install paho-mqtt
+Abrir o terminal e digitar: pip3 install flask
+Abrir o terminal e digitar: pip3 install flask_cors
+Abrir o terminal e digitar: pip3 install flask_socketio
 
 2- Rodar o mqtt:
 
